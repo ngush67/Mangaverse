@@ -2,7 +2,9 @@
 
 [![Build](https://github.com/B3zaleel/MangaDownloader/actions/workflows/build.yml/badge.svg)](https://github.com/B3zaleel/MangaDownloader/actions/workflows/build.yml)
 
-MangaDownloader is an application for downloading manga titles.
+MangaDownloader is an application for downloading manga titles. 
+
+By Ngula
 
 ![A screenshot of MangaDownloader XAMLUI](src/UI/Assets/Screenshot.png)
 
