@@ -1,4 +1,4 @@
-﻿namespace MangaDownloader;
+﻿namespace MangaDownloader; 
 
 public class Page
 {
